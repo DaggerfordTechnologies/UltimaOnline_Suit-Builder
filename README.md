@@ -19,7 +19,6 @@ Requires Excel 2019 or Microsoft 365. The bonus formulas use `SWITCH`, which old
 | **Cork (Chesapeake)** | Suit for the character Cork on the Chesapeake shard |
 | **Penthesilea (Chesapeake)** | Suit for the character Penthesilea on the Chesapeake shard |
 | **Ghanima (Atlantic)** | Suit for the character Ghanima on the Atlantic shard |
-| **Mondain Event Items** | Collection tracker for Mondain event rewards |
 
 ## Suit sheet layout
 
@@ -66,13 +65,3 @@ Choose up to eight skills from the dropdown in column C. For each one, enter the
 1. Right-click the **Suit Template** tab and choose **Move or Copy → Create a copy**.
 2. Rename the copy `Name (Shard)`, matching the existing sheets.
 3. Pick the mastery and race, then enter base stats, gear and skills.
-
-## Mondain Event Items
-
-Tracks how many of each Mondain event reward you've collected, broken down by variant number:
-
-- Scrolls (An, Corp, Hur, In, Kal, Mani, Tym, Vas)
-- Obelisks, grouped by rarity (Common to Uber Rare)
-- Skull of Mondain
-- Black Compendium
-- Bust of Mondain
