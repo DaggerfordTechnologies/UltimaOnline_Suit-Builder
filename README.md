@@ -2,6 +2,10 @@
 
 An Excel workbook for planning and tracking equipment suits in **Ultima Online**. You enter each gear slot's item properties, and the sheet adds them up across the suit. It also works out the character's final stats, including race and mastery bonuses.
 
+<p>
+  <img src="SuitBuilder.png" alt="Corks' Suit Builder Spreadsheet" height="300">
+</p>
+
 ## File
 
 | File | Description |
