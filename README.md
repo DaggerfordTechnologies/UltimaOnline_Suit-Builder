@@ -15,10 +15,6 @@ Requires Excel 2019 or Microsoft 365. The bonus formulas use `SWITCH`, which old
 | Sheet | Purpose |
 | --- | --- |
 | **Suit Template** | Blank suit. Copy it to start a new character. |
-| **Chart1** | Bar chart comparing item properties across Cork's gear slots |
-| **Cork (Chesapeake)** | Suit for the character Cork on the Chesapeake shard |
-| **Penthesilea (Chesapeake)** | Suit for the character Penthesilea on the Chesapeake shard |
-| **Ghanima (Atlantic)** | Suit for the character Ghanima on the Atlantic shard |
 
 ## Suit sheet layout
 
