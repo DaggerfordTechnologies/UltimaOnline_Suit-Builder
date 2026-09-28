@@ -6,7 +6,7 @@ An Excel workbook for planning and tracking equipment suits in **Ultima Online**
 
 | File | Description |
 | --- | --- |
-| `Ultima Online Gear Tracker.xlsx` | The suit builder workbook |
+| `UO_Suit_Builder.xlsx` | The suit builder workbook |
 
 Requires Excel 2019 or Microsoft 365. The bonus formulas use `SWITCH`, which older versions don't support.
 
